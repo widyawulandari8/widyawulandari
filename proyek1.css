@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+    display: flex;
+}
+.personal{
+    width: 40%;
+    height: 100px;
+    background-color: aqua;
+}
+.menubar{
+    width: 60%;
+    height: 100px;
+    background-color: blue;
+    display:flex;
+   
+}
+p{
+    color: white;
+}
+.submenu{
+    padding: 15px;
+    padding-top: 30px;
+}
+.submenu:hover{
+    background-color: black;
+}
+.logo-menu{
+    height: 100px;
+}
+.gbr-utama{
+    width: 100%;
+    height: 500px;
+    /*background-color: grey;*/
+    display: flex;
+}
+.judul-kiri{
+  width: 50%;
+    height: 500px;
+    /*background-color: orange;*/
+}
+.gbr-kanan{
+    width: 50%;
+    height: 500px;
+    /*background-color: aqua;*/
+}
+.nama-kiri{
+    width: 80%;
+    height: 300px;
+    /*background-color: brown;*/
+    margin: auto;
+    margin-top:150px;
+}
+.tombol-kiri{
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.teks-nama{
+    color: black;
+    padding-bottom: 20px;
+}
+#tbl-kiri{
+    color: white;
+    padding-top: 12px;
+    padding-left: 30px;
+}
+.gbr1{
+    height: 450px;
+    width: 450px;
+}
+.gbrorang{
+    width: 50%;
+    margin: auto;
+    
+}
+.content{
+    width: 100%;
+    height: 500px;
+   /* background-color: grey;*/
+    display: flex;
+}
+.menu-kiri{
+    width: 20%;
+    height: 500px;
+    /*background-color: red;*/
+}
+.isi{
+    width: 60%;
+    height: 4000px;
+}
+.menu-kanan{
+    width: 20%;
+    height: 500px;
+    background-color: yellow;
+}
+.koleksi-gambar{
+    width: 100%;
+    height: 500px;
+    /*background-color: brown;*/
+    display: flex;
+}
+.koleksi{
+    width: 40%;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+}
+.koleksi-gbr{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+/*li:hover{
+    text-decoration: underline;
+    background-color: white;
+    width: 60%;
+}*/
+#saya{
+    margin-left: 10px;
+}
+.img2{
+    width: 100%;
+    height: 200px;
+}
+#artikel{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+li:hover{
+    padding-top: 15px;
+}
+ul{
+    margin-left: 50px;
+}
+#saya{
+    margin-left: 40px;
+}
+#artikel{
+    margin-left:40px; 
+}
+.about{
+    color: black;
+}
+#about{
+    width: 100%;
+    height: 500px;
+}
+.infodiri{
+    color: black;
+}

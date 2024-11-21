@@ -1,0 +1,78 @@
+.container{
+    width: 90%;
+    height: 6000px;
+    background-color: grey;
+    margin: auto;
+}
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: orange;
+}
+.content{
+    width: 100%;
+    height: 5700px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+}
+.video{
+    width: 70%;
+    height: 5700px;
+    background-color: yellow;
+}
+.sidebar{
+    width: 30%;
+    height: 5700px;
+    background-color: brown;
+}
+.boxbar1{
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    margin: auto;
+    margin-top: 40px;
+}
+.boxgambar{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: auto;
+}
+img{
+    width: 100%;
+}
+.boxteks{
+    width: 100%;
+    height: 85px;
+    background-color: blue;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.tombol:hover{
+    background-color: red;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.video1{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+    margin: auto;
+    margin-top: 50px;
+}
+iframe{
+    width: 100%;
+    height: 400px;
+}

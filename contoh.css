@@ -1,0 +1,20 @@
+.kotak1{
+    width: 60%;
+    height: 400px;
+    background-color:yellow;
+}
+.kotak2{
+    width: 50%;
+    height: 100px;
+    background-color: white;
+}
+.kotak3{
+    width: 50%;
+    height: 100px;
+    background-color: aquamarine;
+}
+.kotak4{
+    width: 50%;
+    height: 100px;
+    background-color: aqua;
+}
